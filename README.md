@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently looking For a job
-- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: tel: +995 577 07 62 81
 
 
